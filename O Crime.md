@@ -1,8 +1,9 @@
 # O Crime
 (Gustavo / Jimmy Andrade)
 
+<pre>
 Quando estamos sós,
-Mós dois juntos, sentados
+Nós dois juntos, sentados
 E você ouvindo Johnny Cash ao meu lado
 O crime é você não descobrir que rir é bom
 
@@ -62,3 +63,4 @@ E é o crime ser assim
 E é o crime ser assim
 
 O crime é você...
+</pre>

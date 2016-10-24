@@ -1,5 +1,5 @@
 # O Crime
-(Gustavo / Jimmy Andrade)
+(Gustavo Moraes / Jimmy Andrade)
 
 <pre>
 Quando estamos sós,

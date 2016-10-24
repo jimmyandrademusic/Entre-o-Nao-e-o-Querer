@@ -23,7 +23,7 @@ Sempre estar entregue ao tal do não
 
 Enquanto você
 Finge que seu medo é sua prisão
-Eu luto tentando te entregar pra mim...
+Eu luto tentando me entregar pra mim...
 
 E é o crime ser assim
 

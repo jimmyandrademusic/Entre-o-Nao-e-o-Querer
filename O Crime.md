@@ -43,7 +43,7 @@ Daquele risco incerto
 
 (A)
 Ah, e quando em sonho
-Crio a bela ideia
+Crio aquela ideia
 Que o sonho nunca irá acontecer pra mim
 
 (J)

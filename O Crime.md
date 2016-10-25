@@ -25,7 +25,7 @@ Começar a desistir
 (A)
 O crime é você
 Sempre estar entregue à solidão
-Sempre estar entregue ao tal do não
+Sempre estar entre o querer e o não
 
 (J)
 Enquanto você
@@ -57,7 +57,7 @@ Começar a sorrir
 (J)
 O crime é você
 Sempre estar entregue à solidão
-Sempre estar entregue ao tal do não
+Sempre estar entre o querer e o não
 
 (A)
 Enquanto você
@@ -67,7 +67,7 @@ Eu luto tentando me entregar...
 (J)
 O crime é você
 Sempre estar entregue à solidão
-Sempre estar entregue ao tal do não
+Sempre estar entre o querer e o não
 
 (A)
 Enquanto você

@@ -61,7 +61,7 @@ Sempre estar entregue ao tal do não
 
 (A)
 Enquanto você
-Finge que seu medo é sua prisão
+Me diz que seu medo é sua prisão
 Eu luto tentando me entregar...
 
 (J)

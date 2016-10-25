@@ -43,7 +43,7 @@ Mas preferi a segurança sem sal da certeza
 Do que o gosto bom
 Daquele risco incerto
 
-Ah, e quando em sonho
+Ah, e quando eu sonho
 Crio aquela ideia
 Que isso nunca vai acontecer pra mim
 

@@ -1,3 +1,4 @@
+<pre>
 In my life there's still lie
 Believin' that you'll come back
 As if I could bring you back
@@ -20,3 +21,4 @@ I'm looking to the stars and maybe they'll show
 Tryin' to forget you but I don't know how
 It is painful to know that you're far away from Earth
 But I know: Milky Way is gonna be my way to you.
+</pre>

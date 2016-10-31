@@ -5,17 +5,9 @@
 * Tom: E
 
 ## Referências
-* Drifter
-  Artista: Falling In Reverse
-  Álbum: Fashionably Late
-  https://www.youtube.com/watch?v=cWnrrW30yNs
-* Black and White
-  Artista: Gustavo Bertoni
-  Álbum: The Pilgrim
-  https://www.youtube.com/watch?v=0SxgdSM9wtI
-* Nicola
-  Artista: Maaya Sakamoto
-  http://www.jpopsuki.tv/video/Maaya-Sakamoto---Nicola/53306397c07ff03f62922ea797c1898c
+* [Drifter](https://www.youtube.com/watch?v=cWnrrW30yNs), de Falling In Reverse. Álbum: Fashionably Late;
+* [Black and White](https://www.youtube.com/watch?v=0SxgdSM9wtI), de Gustavo Bertoni. Álbum: The Pilgrim;
+* [Nicola](https://goo.gl/sMkglo), de Maaya Sakamoto.
 
 ## Letra
 

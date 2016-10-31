@@ -4,6 +4,19 @@
 * Andamento: 110bpm
 * Tom: E
 
+## Referências
+* Drifter
+  Artista: Falling In Reverse
+  Álbum: Fashionably Late
+  https://www.youtube.com/watch?v=cWnrrW30yNs
+* Black and White
+  Artista: Gustavo Bertoni
+  Álbum: The Pilgrim
+  https://www.youtube.com/watch?v=0SxgdSM9wtI
+* Nicola
+  Artista: Maaya Sakamoto
+  http://www.jpopsuki.tv/video/Maaya-Sakamoto---Nicola/53306397c07ff03f62922ea797c1898c
+
 ## Letra
 
 ### Versos

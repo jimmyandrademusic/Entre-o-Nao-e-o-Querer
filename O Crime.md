@@ -3,15 +3,6 @@ Compositores: Gustavo Moraes/Jimmy Andrade
 
 Tom: E
 
-## Ficha técnica
-* Adriano Aquino: baixo
-* Luã Linhares: teclados
-* Jimmy Andrade: voz, teclados, samplers e programação eletrônica
-
-Produzido e mixado por Amon Foratto e Jimmy Andrade
-
-Masterizado por LANDR
-
 ## Letra
 
 ### Versos
@@ -106,3 +97,12 @@ E é o crime ser assim
 (J+F)
 O crime é você...
 </pre>
+
+## Ficha técnica
+* Adriano Aquino: baixo
+* Luã Linhares: teclados
+* Jimmy Andrade: voz, teclados, samplers e programação eletrônica
+
+Produzido e mixado por Amon Foratto e Jimmy Andrade
+
+Masterizado por LANDR

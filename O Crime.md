@@ -1,6 +1,7 @@
 # O Crime
 Compositores: Gustavo Moraes/Jimmy Andrade
 
+Andamento: 110bpm
 Tom: E
 
 ## Letra

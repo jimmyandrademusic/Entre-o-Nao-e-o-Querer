@@ -7,7 +7,7 @@
 ## Referências
 * [Drifter](https://www.youtube.com/watch?v=cWnrrW30yNs), de Falling In Reverse. Álbum: Fashionably Late;
 * [Black and White](https://www.youtube.com/watch?v=0SxgdSM9wtI), de Gustavo Bertoni. Álbum: The Pilgrim;
-* [Nicola](https://goo.gl/sMkglo), de Maaya Sakamoto.
+* [Nicola](http://v.youku.com/v_show/id_XNTI1Mzg0NzI4.html), de Maaya Sakamoto.
 
 ## Letra
 

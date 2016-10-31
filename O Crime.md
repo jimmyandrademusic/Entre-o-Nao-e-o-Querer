@@ -1,7 +1,19 @@
 # O Crime
-(Gustavo Moraes / Jimmy Andrade)
+Compositores: Gustavo Moraes/Jimmy Andrade
+Tom: E
 
-## Versos
+## Ficha técnica
+* Adriano Aquino: baixo
+* Luã Linhares: teclados
+* Jimmy Andrade: voz, teclados, samplers e programação eletrônica
+
+Produzido e mixado por Amon Foratto e Jimmy Andrade
+
+Masterizado por LANDR
+
+## Letra
+
+### Versos
 <pre>
 (J)
 Quando estamos sós,
@@ -20,7 +32,7 @@ Difícil é ver quem ama
 Começar a desistir
 </pre>
 
-## Refrão
+### Refrão
 <pre>
 (J)
 O crime é você
@@ -31,13 +43,13 @@ Enquanto você
 Me diz que seu medo é sua razão
 Eu luto tentando te entregar pra mim...
 
-(J+A)
+(J+F)
 E é o crime ser assim
 </pre>
 
-## Versos
+### Versos
 <pre>
-(A)
+(F)
 Eu devia ter arriscado e feito mal
 Mas preferi a segurança sem sal da certeza
 Do que o gosto bom
@@ -53,9 +65,9 @@ Tão lindo é ver quem ama
 Começar a sorrir
 </pre>
 
-## Refrão
+### Refrão
 <pre>
-(J+A)
+(J+F)
 O crime é você
 Sempre estar entregue à solidão
 Sempre estar entre o querer e o não
@@ -65,31 +77,31 @@ Enquanto você
 Me diz que seu medo é sua razão
 Eu luto tentando te entregar...
 
-(J+A)
+(J+F)
 O crime é você
 Sempre estar entregue à solidão
 Sempre estar entre o querer e o não
 
-(A)
+(F)
 Enquanto você
 Finge que seu medo é sua prisão
 Eu luto tentando me entregar pra mim
 </pre>
 
-## Finalização
+### Finalização
 <pre>
 (J)
 E é o crime ser assim
 
-(A)
+(F)
 E é o crime ser assim
 
 (J)
 E é o crime ser assim
 
-(A)
+(F)
 E é o crime ser assim
 
-(J+A)
+(J+F)
 O crime é você...
 </pre>

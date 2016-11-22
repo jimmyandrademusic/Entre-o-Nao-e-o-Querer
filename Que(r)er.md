@@ -11,7 +11,7 @@ Dsus2 Dsus4 Csus2 Csus2 Dsus2 Dsus4 Csus2 G
 <pre>
 D    D9    D         D9          A   A9      A...
 (Eu quero alguém)                (Eu quero alguém)               
-        Que ouça a música que imaginei
+        Que toque a música que imaginei
 
     A        A9           Bm7
 Que pense exatamente como eu pensei

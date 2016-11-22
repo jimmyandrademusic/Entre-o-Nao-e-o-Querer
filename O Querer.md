@@ -1,6 +1,7 @@
 #O Querer
 (Jimmy Andrade)
 
+* Andamento: 125bpm
 * Tom: D
 
 ## Referências

@@ -1,6 +1,8 @@
 #O Querer
 (Jimmy Andrade)
+
 * Tom: D
+
 ## Referências
 * [Até o Fim](https://youtu.be/xjfVDxttN7Y?t=3m35s), de Engenheiros do Hawaii. Álbum: Acústico MTV;
 * [Maio](https://youtu.be/Tt51oU7NK3k?t=11m51s), de Kid Abelha. Álbum: Acústico MTV;

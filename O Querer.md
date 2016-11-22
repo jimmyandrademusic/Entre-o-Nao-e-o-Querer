@@ -7,7 +7,7 @@
 ## Referências
 * [Até o Fim](https://youtu.be/xjfVDxttN7Y?t=3m35s), de Engenheiros do Hawaii. Álbum: Acústico MTV;
 * [Maio](https://youtu.be/Tt51oU7NK3k?t=11m51s), de Kid Abelha. Álbum: Acústico MTV;
-* [Nós Dois no Abismo](https://youtu.be/DIOlG4Xd9m4?t=2m17s), de Sandy & Junior. Álbum: Sandy & Junior 2006;
+* [Nós Dois no Abismo](https://youtu.be/DIOlG4Xd9m4?t=2m00s), de Sandy & Junior. Álbum: Sandy & Junior 2006;
 
 ## Letra e cifra
 ### Intro

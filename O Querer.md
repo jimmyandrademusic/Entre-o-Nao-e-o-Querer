@@ -1,4 +1,4 @@
-#Que(r)er
+#O Querer
 (Jimmy Andrade)
 * Tom: D
 

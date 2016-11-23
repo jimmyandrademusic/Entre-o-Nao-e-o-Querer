@@ -144,7 +144,6 @@ Tudo aquilo que guardei
 Nao vou cantar, ah ah ah... ah ah ah
 </pre>
 ### Refrão
-Repete 3x percussivo, 1x violão dedilhado
 <pre>
         E
 Que é dificil encontrar

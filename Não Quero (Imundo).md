@@ -67,7 +67,7 @@ Jura a doida:
     Am
 "Agora mais nada
       E
-Pra entrar na estrada errada"
+Vai entrar na estrada errada"
 
 Porque...
 </pre>

@@ -51,17 +51,26 @@ No matadouro, do outro lado da cerca
 </pre>
 ### Bridge
 <pre>
-E se agora
+F
+   E se agora
+        G
 A minha água é pura
+     Am
 Dura foi a caminhada
-
+       F
 Pra chegar a nada
-A mera puta
+
+F
+    A sua puta
+     G
 Já saiu por essa estrada
 
+F
 Jura a doida:
+    Am
 "Agora mais nada
-Vai entrar na entrada errada"
+      E
+Pra entrar na entrada errada"
 
 Porque...
 </pre>

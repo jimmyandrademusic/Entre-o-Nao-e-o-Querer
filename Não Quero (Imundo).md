@@ -60,20 +60,20 @@ Pra chegar a nada
 F
     A sua puta
      G
-Já saiu por essa estrada
+Já saiu por essa entrada
 
 F
 Jura a doida:
     Am
 "Agora mais nada
       E
-Pra entrar na entrada errada"
+Pra entrar na estrada errada"
 
 Porque...
 </pre>
 ### Refrão
 <pre>
-Ah não... não quero mais saber, não, não, não
+Ah não... não quero mais saber, yeah... não, não, não
 Não não... não quero mais você
 
 Não não... não quero mais saber, não, não, não

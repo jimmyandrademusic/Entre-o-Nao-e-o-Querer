@@ -4,7 +4,7 @@
 ## Letra
 ### Versos
 <pre>
-Eu acho que eu me lembrei de tudo
+Eu acho que eu lembrei de tudo
 De tudo o que eu devia esquecer
 Lembrei daquele tempo imundo
 Em que eu passei pensando em você
@@ -16,9 +16,6 @@ No esgoto que nutre o fosso do meu lar
 </pre>
 ### Refrão
 <pre>
-Ah não... não quero mais saber
-Ah não... não quero mais você
-
 Ah não... não quero mais saber
 Ah não... não quero mais você
 </pre>
@@ -77,8 +74,8 @@ Porque...
 ### Refrão
 <pre>
 Ah não... não quero mais saber, não, não, não
-Ah não... não quero mais você
+Não não... não quero mais você
 
-Ah não... não quero mais saber, não, não, não
-Ah não... não quero mais você
+Não não... não quero mais saber, não, não, não
+Não não... não quero mais você
 </pre>

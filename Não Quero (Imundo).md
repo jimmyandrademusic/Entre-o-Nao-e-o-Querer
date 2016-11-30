@@ -42,7 +42,7 @@ Ah não... não quero mais você
 ### Versos
 <pre>
 Se mordeu de ódio quando me viu
-Andando divando por cima da carne seca
+Andando por cima da carne seca
 Ao reviver cadáveres no canil
 No matadouro, do outro lado da cerca
 </pre>

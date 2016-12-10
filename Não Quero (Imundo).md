@@ -29,7 +29,7 @@ Você querendo o bem, me fez só mal
 A cada vez que eu matava sua fome
 Você cuspia ou quebrava o prato
 Com a desculpa que o tempero não era bom
-Jurado-Master-Chef-dono-da-razão
+Jurado Master Chef, és dono da razão
 </pre>
 ### Refrão
 <pre>
@@ -60,7 +60,7 @@ Pra chegar a nada
 F
     A sua puta
      G
-Já saiu por essa entrada
+Já saiu por essa estrada
 
 F
 Jura a doida:
@@ -69,13 +69,15 @@ Jura a doida:
       E
 Vai entrar na estrada errada"
 
-Porque...
 </pre>
 ### Refrão
 <pre>
-Ah não... não quero mais saber, yeah... não, não, não
+Ah não... não quero mais saber, yeah... oh, oh, oh
+Não não... não quero mais você, yeah yeah
+
+Ah não... não quero mais saber, ah ah ah ah
 Não não... não quero mais você
 
-Não não... não quero mais saber, não, não, não
-Não não... não quero mais você
+(Imundo)
+Sujo
 </pre>

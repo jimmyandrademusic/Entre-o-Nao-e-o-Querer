@@ -1,4 +1,4 @@
-#O Querer
+#Querer
 (Jimmy Andrade)
 
 * Andamento: 125bpm

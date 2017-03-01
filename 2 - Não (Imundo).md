@@ -1,4 +1,4 @@
-# Não Quero (Imundo)
+# Não (Imundo)
 (Wanderson Abreu/Jimmy Andrade)
 
 ## Letra

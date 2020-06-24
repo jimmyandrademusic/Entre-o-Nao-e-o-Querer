@@ -1,8 +1,10 @@
-#Querer
-(Jimmy Andrade)
+---
+bpm: 125bpm
+key: D
+---
 
-* Andamento: 125bpm
-* Tom: D
+# Querer
+(Jimmy Andrade)
 
 ## Referências para instrumentação e mixagem
 * [Até o Fim](https://youtu.be/xjfVDxttN7Y?t=3m35s), de Engenheiros do Hawaii. Álbum: Acústico MTV;
@@ -11,11 +13,14 @@
 
 ## Letra e cifra
 ### Intro
-<pre>
+
+```
 Dsus2 Dsus4 Csus2 Csus2 Dsus2 Dsus4 Csus2 G
-</pre>
+```
+
 ### Versos
-<pre>
+
+```
 D    D9    D         D9          A   A9      A...
 (Eu quero alguém)                (Eu quero alguém)               
         Que toque a música que imaginei
@@ -28,14 +33,16 @@ Sem tirar  nem por
            D    D9
 Eu quero alguém
     D         D9                   A    A9
-Que inspire letras pr’as minhas cancoes
+Que inspire letras pr’as minhas canções
       A          A9                Bm7
-Que expressem exatamente as minhas emocoes
+Que expressem exatamente as minhas emoções
 Em/B        Bm7             C
 Da maneira mais perfeita...a
-</pre>
+```
+
 ### Bridge
-<pre>
+
+```
 C/E        E
 Eu quero alguem
     Easus4
@@ -49,9 +56,11 @@ Que busque meu olhar
 
           G#4 G4  Bm7
 E que acredi..te  que
-</pre>
+```
+
 ### Refrão
-<pre>
+
+```
     D
 E difícil encontrar
         A
@@ -71,9 +80,11 @@ Eu ja não cantarei mais
 Sem forças pra continuar...
 
 D G
-</pre>
+```
+
 ### Versos
-<pre>
+
+```
             D
 Nao quero alguÈm
     D9
@@ -90,9 +101,11 @@ Mais um que existe aqui
 E eu percebi...
      Cm      G4
 E eu percebi
-</pre>
+```
+
 ### Refrão
-<pre>
+
+```
     D
 Que e difícil encontrar
         A
@@ -110,10 +123,13 @@ Se for pra longe de mim
 Eu já não cantarei mais
            G
 Sem forças pra continuar...
-</pre>
+```
+
 ### Refrão
+
 (Repete intercalando com coro cantando "Eu quero alguém")
-<pre>
+
+```
 (Que é difícil encontrar)
 Amor em outro lugar
 Deixa essa música
@@ -124,10 +140,13 @@ Se for pra longe de mim
 Eu já não cantarei mais
                             G G/F#
 Sem forças pra continuar...
-</pre>
-### Outro
+```
+
+### Bridge
+
 (Com backing-vocal em 3ª alta)
-<pre>
+
+```
 Em Am Em Am Em Am F#m Bm F#m Bm F#m Bm
 
 Se eu nao encontrar alguem
@@ -142,9 +161,11 @@ Tudo aquilo que guardei
 
         C# D       C# C           B
 Nao vou cantar, ah ah ah... ah ah ah
-</pre>
+```
+
 ### Refrão
-<pre>
+
+```
         E
 Que é dificil encontrar
         B9
@@ -180,9 +201,11 @@ Se for pra longe de mim
 (Eu ja nao cantarei mais)
            A9         B9
 Sem forcas pra continuar...
-</pre>
-###Finalização
-<pre>
+```
+
+### Outro
+
+```
 G  G  G     D		D4 D D9 D
 Eu quero alguem…
-</pre>
+```

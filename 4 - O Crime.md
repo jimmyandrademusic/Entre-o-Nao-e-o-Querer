@@ -5,9 +5,11 @@ songwriters:
   - Gustavo Moraes
   - Jimmy Andrade
 musicians:
-  - Adriano Aquino (bass)
-  - Luã Linhares (keys)
-  - Jimmy Andrade (vocals, keys, samplers, programming)
+  - bass: Adriano Aquino
+  - keys and programming:
+    - Luã Linhares (keys)
+    - Jimmy Andrade (keys)
+  - vocals: Jimmy Andrade
 producers:
   - Amon Foratto
   - Jimmy Andrade

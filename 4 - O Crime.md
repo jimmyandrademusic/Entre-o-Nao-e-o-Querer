@@ -1,20 +1,17 @@
 ---
 bpm: 110bpm
 key: E
-songwriters:
-  - Gustavo Moraes
-  - Jimmy Andrade
+mastered_by: LANDR
+producers: Jimmy Andrade
 musicians:
   - bass: Adriano Aquino
   - keys and programming:
-    - Luã Linhares (keys)
-    - Jimmy Andrade (keys)
+    - Luã Linhares
+    - Jimmy Andrade
   - vocals: Jimmy Andrade
-producers:
-  - Amon Foratto
+songwriters:
+  - Gustavo Moraes
   - Jimmy Andrade
-mastered_by:
-  - LANDR
 ---
 
 # O Crime

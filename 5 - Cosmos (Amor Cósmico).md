@@ -40,12 +40,14 @@ A qual me vi, oh não
 Olhando pras estrelas me mostrando
 Tentando afastar todo esse pranto
 Distante de você desse tanto
-Mas meu caminho leva até onde eu quero ir
+Mas meu caminho
+Leva até onde eu quero ir
 
-O mundo não é
-Como imaginei
+O mundo
+Não é como imaginei
 De novo
-Descubro, não sei
+Descubro
+Não sei
 
 Se somos perfeitos
 Se ver assim

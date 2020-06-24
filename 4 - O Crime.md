@@ -1,8 +1,12 @@
-# O Crime
-(Gustavo Moraes/Jimmy Andrade)
+---
+bpm: 110bpm
+key: E
+songwriters:
+  - Gustavo Moraes
+  - Jimmy Andrade
+---
 
-* Andamento: 110bpm
-* Tom: E
+# O Crime
 
 ## Referências
 * [Drifter](https://www.youtube.com/watch?v=cWnrrW30yNs), de Falling In Reverse. Álbum: Fashionably Late;

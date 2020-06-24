@@ -1,10 +1,10 @@
 ---
 bpm: 125bpm
 key: D
+songwriter: Jimmy Andrade
 ---
 
 # Querer
-(Jimmy Andrade)
 
 ## Referências para instrumentação e mixagem
 * [Até o Fim](https://youtu.be/xjfVDxttN7Y?t=3m35s), de Engenheiros do Hawaii. Álbum: Acústico MTV;

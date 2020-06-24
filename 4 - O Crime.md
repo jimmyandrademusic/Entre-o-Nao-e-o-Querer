@@ -40,7 +40,7 @@ Nem defeitos e nem tente entender
 Simples é olhar pro céu
 E sorrir, sorrir, sorrir
 Difícil é ver quem ama
-Começar a desistir
+Começar a partir
 ```
 
 ### Refrão

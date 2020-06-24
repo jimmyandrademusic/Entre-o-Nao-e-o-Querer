@@ -2,13 +2,13 @@
 bpm: 110bpm
 key: E
 mastered_by: LANDR
-producers: Jimmy Andrade
 musicians:
   - bass: Adriano Aquino
   - keys and programming:
     - Luã Linhares
     - Jimmy Andrade
   - vocals: Jimmy Andrade
+producers: Jimmy Andrade
 songwriters:
   - Gustavo Moraes
   - Jimmy Andrade

@@ -4,6 +4,15 @@ key: E
 songwriters:
   - Gustavo Moraes
   - Jimmy Andrade
+musicians:
+  - Adriano Aquino (bass)
+  - Luã Linhares (keys)
+  - Jimmy Andrade (vocals, keys, samplers, programming)
+producers:
+  - Amon Foratto
+  - Jimmy Andrade
+mastered_by:
+  - LANDR
 ---
 
 # O Crime
@@ -16,7 +25,8 @@ songwriters:
 ## Letra
 
 ### Versos
-<pre>
+
+```
 (J)
 Quando estamos sós,
 Nós dois juntos, sentados
@@ -32,10 +42,11 @@ Simples é olhar pro céu
 E sorrir, sorrir, sorrir
 Difícil é ver quem ama
 Começar a desistir
-</pre>
+```
 
 ### Refrão
-<pre>
+
+```
 (J)
 O crime é você
 Sempre estar entregue à solidão
@@ -47,10 +58,11 @@ Eu luto tentando te entregar pra mim...
 
 (J+F)
 E é o crime ser assim
-</pre>
+```
 
 ### Versos
-<pre>
+
+```
 (F)
 Eu devia ter arriscado e feito mal
 Mas preferi a segurança sem sal da certeza
@@ -65,10 +77,11 @@ E é o crime ser
 Assim pra mim, enfim
 Tão lindo é ver quem ama
 Começar a sorrir
-</pre>
+```
 
 ### Refrão
-<pre>
+
+```
 (J+F)
 O crime é você
 Sempre estar entregue à solidão
@@ -88,10 +101,11 @@ Sempre estar entre o querer e o não
 Enquanto você
 Finge que seu medo é sua prisão
 Eu luto tentando me entregar pra mim
-</pre>
+```
 
 ### Finalização
-<pre>
+
+```
 (J)
 E é o crime ser assim
 
@@ -106,13 +120,4 @@ E é o crime ser assim
 
 (J+F)
 O crime é você...
-</pre>
-
-## Ficha técnica
-* Adriano Aquino: baixo
-* Luã Linhares: teclados
-* Jimmy Andrade: voz, teclados, samplers e programação eletrônica
-
-Produzido e mixado por Amon Foratto e Jimmy Andrade
-
-Masterizado por LANDR
+```

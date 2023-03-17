@@ -6,6 +6,16 @@ songwriter: Jimmy Andrade
 
 # Que(r)er
 
+## Uso de acordes
+
+A música apresenta uma sequência de acordes que utiliza principalmente acordes maiores e menores, com alguns acordes sus (Dsus2, Dsus4, Csus2) adicionando um pouco de tensão na progressão. A introdução utiliza apenas quatro acordes, todos eles com a sonoridade aberta e agradável ao ouvido. Na sequência dos versos, os graus principais (I, IV e V) são utilizados, assim como o grau VI (Bm7) que proporciona uma sensação de modulação para uma tonalidade relativa menor, mas que logo é resolvido no grau I (D). O acorde de passagem Em/B proporciona uma conexão entre o Bm7 e o C e o acorde de G4 serve como preparação para o G, que é o acorde que encerra a progressão dos versos.
+
+Na seção da ponte (bridge), é adicionado um acorde C/E que traz uma sonoridade mais aberta e distante do tom principal de D maior, proporcionando um momento de tensão na progressão. O acorde de Easus4 é adicionado como uma extensão do E maior, acrescentando uma sonoridade um pouco mais dissonante. A progressão segue para uma sequência de acordes com as notas G# e B, que não pertencem à escala de D maior, proporcionando ainda mais tensão e expectativa. A resolução é encontrada no acorde de Bm7, que novamente funciona como uma ponte para retornar para o tom principal de D maior.
+
+O refrão é composto por uma progressão simples de quatro acordes: D, A, Bm7 e C. Essa progressão é repetida três vezes, criando uma sensação de estabilidade e conforto. A mudança de acordes é previsível e facilmente reconhecida pelo ouvinte, o que pode contribuir para a popularidade da música. O refrão termina com um acorde de G que é utilizado como um acorde de transição para a próxima seção.
+
+A música tem uma sonoridade pop, utilizando acordes simples e previsíveis, com uma melodia cativante e fácil de cantar. A progressão dos acordes e a melodia criam uma sensação de otimismo e esperança, enquanto a letra fala sobre encontrar alguém que compreenda os sentimentos e pensamentos do autor. A sequência de acordes e a melodia da música são facilmente identificáveis e memorizáveis, o que contribui para sua popularidade.
+
 ## Referências para instrumentação e mixagem
 * [Até o Fim](https://youtu.be/xjfVDxttN7Y?t=3m35s), de Engenheiros do Hawaii. Álbum: Acústico MTV;
 * [Maio](https://youtu.be/Tt51oU7NK3k?t=11m51s), de Kid Abelha. Álbum: Acústico MTV;
